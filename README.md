@@ -1,6 +1,6 @@
-# Overcoming Language Barriers: Assessing the Potential of Machine Translation and Topic Modeling for the Comparative Analysis of Multilingual Text Corpora
+# Overcoming Language Barriers
 
-This repo contains R-code for a forthcoming paper..
+This repo contains R-code for a forthcoming paper.
 
 Data available upon request.
 
