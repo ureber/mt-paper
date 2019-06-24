@@ -2,7 +2,7 @@
 
 This repo contains the R-code for the following paper:
 
-Reber, U. (2018) Overcoming language barriers: Assessing the potential of machine translation and topic modeling for the comparative analysis of multilingual text corpora. Communication Methods and Measures. Advance online publication. DOI: [10.1080/19312458.2018.1555798](https://doi.org/10.1080/19312458.2018.1555798)
+Reber, U. (2018). Overcoming language barriers: Assessing the potential of machine translation and topic modeling for the comparative analysis of multilingual text corpora. Communication Methods and Measures, 13(2), 102-125. DOI: [10.1080/19312458.2018.1555798](https://doi.org/10.1080/19312458.2018.1555798)
 
 Data is available upon request.
 
